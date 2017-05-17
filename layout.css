@@ -1,0 +1,741 @@
+body  {
+	margin: 0;
+	padding: 0;
+}
+#container  {
+	margin: 0;
+	width: 100%;
+	background: #fff;
+}
+div.logo{
+  width:100%;
+  height: 25%;
+  background-color: red;
+  border-color: red;
+  padding-right: 50px;
+  position:absolute;
+}
+div.logo img.filme {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+div.logo img.cine {
+  display: block;
+  top:20%;
+  left:440px;
+  position: relative;
+}
+
+div.logo input{
+  border-color: red;
+  color:white;
+  width: 360px;
+  height: 20px;
+  left: 63em;
+  position:absolute;
+}
+div.logo button.lupa {
+  background-image: url("lupa.png");
+  border-color: red;
+  position:absolute;
+  width:25px;
+  height:26px;
+  left: 90em;
+}
+div.logo button.contato {
+  background-color: orange;
+  border-color: orange;
+  color:white;  font-family:monospace;
+  position:absolute;
+  width:150px;
+  height:26px;
+  left: 100em;
+}
+div.logo button.celular {
+  background-image: url("celular.png");
+  border-color: orange;
+  position:absolute;
+  width:32px;
+  height:32px;
+  left: 113em;
+}
+div.menus_topo{
+  position: absolute;
+  top:77%;
+}
+div.logo button.menu1 {
+  color:white;
+  background-color: red;
+  border-style: none;
+  font-family:monospace;
+  left: 56em;
+  position:absolute;
+}
+div.logo button.menu2 {
+  color:white;
+  background-color: red;
+  border-style: none;
+  font-family: monospace;
+  left:65em;
+  position:absolute;
+}
+div.logo button.menu3 {
+  color:white;
+  background-color: red;
+  border-style: none;
+  font-family: monospace;
+  width: 160px;
+  left:73em;
+  position:absolute;
+}
+div.logo button.menu4 {
+  color:white;
+  background-color: red;
+  border-style: none;
+  font-family: monospace;
+  left:86em;
+  position:absolute;
+}
+div.logo button.menu5 {
+  color:white;
+  background-color: red;
+  border-style: none;
+  font-family: monospace;
+  left:94em;
+  position:absolute;
+
+}
+div.logo button.menu6 {
+  color:white;
+  background-color: red;
+  border-style: none;
+  font-family: monospace;
+  left:102em;
+  position:absolute;
+
+}
+div.logo button.menu7 {
+  color:white;
+  background-color: red;
+  border-style: none;
+  font-family: monospace;
+  width: 130px;
+  left:107em;
+  position:absolute;
+}
+div.logo button.menu8 {
+  color:white;
+  background-color: red;
+  border-style: none;
+  font-family: monospace;
+  left:116em;
+  position:absolute;
+}
+div.meio{
+  width:100%;
+  top:500%;
+  background-color: blue;
+  height:42px;
+
+}
+div.meio h4{
+  background-color: blue;
+  font-family: monospace;
+  position:absolute;
+  top:25%;
+  color:white;
+  left:23%;
+}
+div.meio button.h51 {
+  background-color: blue;
+  border-style: none;
+  font-family: arial, helvetica, sans-serif;
+  position:absolute;
+  color:white;
+  top:27%;
+  height:22px;
+  left:46%;
+}
+div.meio button.h52 {
+  background-color: blue;
+  border-style: none;
+  font-family: arial, helvetica, sans-serif;
+  position:absolute;
+  color:white;
+  top:27%;
+  height:22px;
+  left:59%;
+}
+div.titulo1{
+  background-color: white;
+  width: 100%;
+  height: 120px;
+}
+div.titulo {
+  font-family: arial, helvetica, sans-serif;
+  position:absolute;
+  height: 22px;
+  top:33%;
+  left:23%;
+}
+div.link{
+  position:absolute;
+  background-color: white;
+  top:40%;
+  width:100%;
+  height:80px;
+}
+div.link a.link1 {
+  color:grey;
+  position:absolute;
+  left:22.5%;
+}
+div.link a.link2 {
+  color:grey;
+  position:absolute;
+  left:25.5%;
+}
+div.link p.p1{
+  position:absolute;
+  color:black;
+  top:-20%;
+  left:36%;
+}
+div.link p.parag{
+  position:absolute;
+  color:grey;
+  left:22.5%;
+}
+div.link p.black{
+  position:absolute;
+  color:black;
+  left:28.5%;
+}
+div.menu {
+  background-color: white;
+  position: absolute;
+  top:47%;
+  width: 100%;
+  height:40px;
+}
+div.menu button.programacao {
+  position:absolute;
+  background-color: grey;
+  color:white;
+  width:200px;
+  height:30px;
+  left:22.5%;
+}
+div.menu button.precos {
+  position:absolute;
+  background-color: grey;
+  color:white;
+  width:200px;
+  width:200px;
+  height:30px;
+  left:32.5%;
+}
+div.menu button.promocao {
+  position:absolute;
+  background-color: grey;
+  color:white;
+  width:200px;
+  height:30px;
+  left:42.5%;
+}
+div.menu button.localizacao {
+  position:absolute;
+  background-color: grey;
+  color:white;
+  width:200px;
+  height:30px;
+  left:52.5%;
+}
+div.opcoes{
+  position:absolute;
+  background-color: white;
+  top:50%;
+  width:100%;
+  height:250px;
+}
+div.opcoes button.autopsia{
+  position:absolute;
+  background-color:white;
+  color:white;
+  width:50%;
+  height:50px;
+  left:22.5%;
+}
+div.opcoes button.autopsia div{
+  position:absolute;
+  color:grey;
+  top:28%;
+  left:1%;
+}
+div.opcoes button.autopsia div.filme1{
+  position:absolute;
+  color:grey;
+  top:26%;
+  left:40%;
+}
+div.opcoes button.autopsia div.leng1{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:10%;
+  left:55%;
+}
+div.opcoes button.autopsia div.leng1 p{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:28%;
+}
+div.opcoes button.autopsia div.sala1{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  left:70%;
+  top:13%;
+}
+div.opcoes button.autopsia div.sala1 p.hr1{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:-45%;
+  left:115%
+}
+div.opcoes button.autopsia div.sala1 p.sala11{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:5%;
+  left:0%;
+}
+div.opcoes button.autopsia div.sala1 p.hr11{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:5%;
+  left:120%;
+}
+
+
+
+
+
+
+
+
+
+div.opcoes button.cabana{
+  position:absolute;
+  background-color:white;
+  color:white;
+  width:50%;
+  height:50px;
+  top:20%;
+  left:22.5%;
+}
+div.opcoes button.cabana div{
+  position:absolute;
+  color:grey;
+  left: 1%;
+}
+div.opcoes button.cabana div.filme2{
+  position:absolute;
+  color:grey;
+  top:26%;
+  left:40%;
+}
+div.opcoes button.cabana div.leng2{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:20%;
+  left:55%;
+}
+div.opcoes button.cabana div.leng2 p{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:26%;
+}
+div.opcoes button.cabana div.sala2{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  left:70%;
+  top:26%;
+}
+
+div.opcoes button.cabana div.sala2 p.hr2{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:-70%;
+  left:115%
+}
+div.opcoes button.autopsia div.sala2 p.sala22{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:5%;
+  left:0%;
+}
+div.opcoes button.autopsia div.sala2 p.hr22{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:5%;
+  left:120%;
+}
+
+
+
+
+
+
+
+
+div.opcoes button.alien{
+  position:absolute;
+  background-color:white;
+  color:white;
+  width:50%;
+  height:50px;
+  left:22.5%;
+  top:40%;
+}
+div.opcoes button.alien div{
+  position:absolute;
+  color:grey;
+  top:38%;
+  left:1%;
+}
+div.opcoes button.alien div.filme3{
+  position:absolute;
+  color:grey;
+  top:26%;
+  left:40%;
+}
+div.opcoes button.alien img{
+  position:absolute;
+  color:grey;
+  top:26%;
+  left:90%;
+}
+div.opcoes button.alien div.leng3{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:10%;
+  left:55%;
+}
+div.opcoes button.alien div.leng3 p{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:28%;
+}
+div.opcoes button.alien div.sala3{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  left:70%;
+  top:13%;
+}
+div.opcoes button.alien div.sala3 p.hr3{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:-45%;
+  left:115%
+}
+div.opcoes button.alien div.sala3 p.sala33{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:5%;
+  left:0%;
+}
+div.opcoes button.alien div.sala3 p.hr33{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:5%;
+  left:120%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div.opcoes button.guardioes{
+  position:absolute;
+  background-color:white;
+  color:white;
+  width:50%;
+  height:50px;
+  left:22.5%;
+  top:60%;
+}
+div.opcoes button.guardioes div{
+  position:absolute;
+  color:grey;
+  top:38%;
+  left:1%;
+}
+div.opcoes button.guardioes img{
+  position:absolute;
+  color:grey;
+  top:26%;
+  left:25%;
+}
+div.opcoes button.guardioes div.filme4{
+  position:absolute;
+  color:grey;
+  top:26%;
+  left:40.5%;
+}
+div.opcoes button.guardioes div.leng4{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:10%;
+  left:55%;
+}
+div.opcoes button.guardioes div.leng4 p{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:28%;
+}
+div.opcoes button.guardioes div.sala4{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  left:70%;
+  top:13%;
+}
+div.opcoes button.guardioes div.sala4 p.hr4{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:-45%;
+  left:115%
+}
+div.opcoes button.guardioes div.sala4 p.sala44{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:5%;
+  left:0%;
+}
+div.opcoes button.guardioes div.sala4 p.hr44{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:5%;
+  left:120%;
+}
+
+
+
+
+
+
+
+
+
+
+
+div.opcoes button.poderoso{
+  position:absolute;
+  background-color:white;
+  color:white;
+  width:50%;
+  height:50px;
+  left:22.5%;
+  top:80%;
+}
+div.opcoes button.poderoso div{
+  position:absolute;
+  color:grey;
+  top:38%;
+  left:1%;
+}
+div.opcoes button.poderoso div.filme5{
+  position:absolute;
+  color:grey;
+  top:26%;
+  left:40.5%;
+}
+div.opcoes button.poderoso div.leng5{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:10%;
+  left:55%;
+}
+div.opcoes button.poderoso div.leng5 p{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:28%;
+}
+div.opcoes button.poderoso div.sala5{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  left:70%;
+  top:13%;
+}
+div.opcoes button.poderoso div.sala5 p.hr5{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:-45%;
+  left:115%
+}
+div.opcoes button.poderoso div.sala5 p.sala55{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:5%;
+  left:0%;
+}
+div.opcoes button.poderoso div.sala5 p.hr55{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:5%;
+  left:120%;
+}
+
+
+
+
+
+
+
+
+div.opcoes button.rock{
+  position:absolute;
+  background-color:white;
+  color:white;
+  width:50%;
+  height:50px;
+  left:22.5%;
+  top:100%;
+}
+div.opcoes button.rock div{
+  position:absolute;
+  color:grey;
+  top:38%;
+  left:1%;
+}
+div.opcoes button.rock div.filme6{
+  position:absolute;
+  color:grey;
+  top:26%;
+  left:40.5%;
+}
+div.opcoes button.rock div.leng6{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:10%;
+  left:55%;
+}
+div.opcoes button.rock div.leng6 p{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:28%;
+}
+div.opcoes button.rock div.sala6{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  left:70%;
+  top:13%;
+}
+div.opcoes button.rock div.sala6 p.hr6{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:-70%;
+  left:115%
+}
+
+
+
+
+
+
+
+div.opcoes button.velozes{
+  position:absolute;
+  background-color:white;
+  color:white;
+  width:50%;
+  height:50px;
+  left:22.5%;
+  top:120%;
+}
+div.opcoes button.velozes div{
+  position:absolute;
+  color:grey;
+  top:38%;
+  left:1%;
+}
+div.opcoes button.velozes img{
+  position:absolute;
+  color:grey;
+  top:38%;
+  left:25%;
+}
+div.opcoes button.velozes div.filme7{
+  position:absolute;
+  color:grey;
+  top:26%;
+  left:40.5%;
+}
+div.opcoes button.velozes div.leng7{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:10%;
+  left:55%;
+}
+div.opcoes button.velozes div.leng7 p{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:28%;
+}
+div.opcoes button.velozes div.sala7{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  left:70%;
+  top:13%;
+}
+div.opcoes button.velozes div.sala7 p.hr7{
+  position:absolute;
+  font-family: cursive;
+  color:grey;
+  top:-70%;
+  left:115%
+}
