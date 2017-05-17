@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Praça shopping rio grande</title>
+    <link rel="stylesheet" href="layout.css">
+  </head>
+  <body>
+    <div id="container">
+    <div class="logo">
+    <img src="filme.jpg" alt="" class = "filme">
+    <img src="logocine.png" alt="" class = "cine">
+    <input type="text" name="" value="" align="center">
+    <button type="button" name="button" class = "lupa">
+    </button>
+    <button type="button" name="button" class = "contato">
+      FAQ/ FALE CONOSCO
+    </button>
+    <button type="button" name="button" class = "celular">
+    </button>
+    <div class = "menus_topo">
+    <button type="button" name="button" class = "menu1">
+      <h4>  CINESYSTEM</h4>
+    </button>
+    <button type="button" name="button" class = "menu2">
+      <h4>   PROGRAMAÇÃO</h4>
+    </button>
+    <button type="button" name="button" class = "menu3">
+      <h4> CLUBE DA PIPOCA</h4>
+    </button>
+    <button type="button" name="button" class = "menu4">
+      <h4> PROMOÇÕES</h4>
+    </button>
+    <button type="button" name="button" class = "menu5">
+      <h4> COMERCIAL</h4>
+    </button>
+    <button type="button" name="button" class = "menu6">
+      <h4> CINÉPIC</h4>
+    </button>
+    <button type="button" name="button" class = "menu7">
+      <h4> ESPAÇO VIP</h4>
+    </button>
+    <button type="button" name="button" class = "menu8">
+      <h4> RI</h4>
+    </button>
+    </div>
+  </div>
+    <div class="meio">
+      <h4>RIO GRANDE(PRAÇA SHOPPING RIO GRANDE)</h4>
+      <button type="button" name="button" class = "h51">
+      FILMES EM CARTAZ E ESTREIAS
+      </button>
+      <button type="button" name="button" class = "h52">
+      PRÓXIMAS ESTREIAS
+      </button>
+    </div>
+    <div class = "titulo1">
+    <div class="titulo">
+      <h3>FILMES EM CARTAZ</h3>
+    </div>
+    </div>
+    <div class = "link">
+      <a href="#" class = "link1" >Home ></a>
+      <a href="#" class = "link2">Praça Rio Grande Shopping ></a>
+      <p class = "p1">Filmes em cartas</p>
+      <p class = "parag"><br/>Programação em:</p>
+      <p class="black"><br/> PRAÇA RIO GRANDE SHOPPING</p>
+    </div>
+    <div class = "menu">
+      <button type="button" name="button" class = "programacao"> Programação</button>
+      <button type="button" name="button" class = "precos">Preços</button>
+      <button type="button" name="button" class = "promocao">Promoções</button>
+      <button type="button" name="button" class = "localizacao">Localização</button>
+    </div>
+    <div class="opcoes">
+    <button type="button" name="button" class = "autopsia">
+        <div> \/ A Autopsia </div><div class = "filme1">Terror,suspense </div><div class="leng1">Legendado<p> Dublado</p></div><div class="sala1">Sala 3: <p class = "hr1">19:30</p><p class = "sala11">Sala 3:<p class = "hr11">17:35</p></p></div>
+    </button><br/>
+    <button type="button" name="button" class = "cabana">
+        <div> \/ A Cabana </div><div class = "filme2">Drama </div><div class="leng2">Legendado</div><div class="sala2">Sala 3: <p class = "hr2">21:25</p></div>
+    </button><br/>
+    <button type="button" name="button" class = "alien">
+        <div> \/ Alien:Convenant </div><div class = "filme3">Ficção <br/> Científica  </div><img src="cinepic.png" alt=""><div class="leng3">Legendado<p> Dublado</p></div><div class="sala3">Sala 4: <p class = "hr3">21:35</p><p class = "sala33">Sala 4:<p class = "hr33">14:00,16:30,19:00</p></p></div>
+    </button><br/>
+    <button type="button" name="button" class = "guardioes">
+        <div> \/ Guardiães da Galáxia <br/> vol 2 </div><img src="3d.png" alt=""><div class = "filme4">Ficção <br/> Científica  </div><div class="leng4">Legendado<p> Dublado</p></div><div class="sala4">Sala 4: <p class = "hr4">21:35</p><p class = "sala44">Sala 4:<p class = "hr44">14:00,16:30,19:00</p></p></div>
+    </button><br/>
+    <button type="button" name="button" class = "poderoso">
+        <div> \/ O Poderoso Chefinho </div><div class = "filme5"> Animação </div><div class="leng5"> Dublado</div><div class="sala5">Sala 2: <p class = "hr5">16:25,21:55</p><p class = "sala55">Sala 2:<p class = "hr55">13:40,19:10</p></p></div>
+    </button><br/>
+    <button type="button" name="button" class = "rock">
+        <div> \/ Rock Dog - No Faro do <br/>Sucesso </div><div class = "filme6"> Animação </div><div class="leng6"> Dublado</div><div class="sala6">Sala 3: <p class = "hr6">15:30</p></div>
+    </button><br/>
+    <button type="button" name="button" class = "velozes">
+        <div> \/ Velozes e furiozos 8 </div><img src="3d.png" alt=""><div class = "filme7"> Ação </div><div class="leng7"> Dublado</div><div class="sala7">Sala 1: <p class = "hr7">13:50,16:35, 19:20,22:05</p></div>
+    </button>
+    </div>
+  </div>
+  </body>
+</html>
