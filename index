@@ -53,11 +53,13 @@
       <button type="button" name="button" class = "h52">
       PRÓXIMAS ESTREIAS
       </button>
+      <button type="button" name="button" class = "escolha">
+      ESCOLHA OUTRO MULTIPLEX \/
+      </button>
     </div>
     <div class = "titulo1">
     <div class="titulo">
       <h3>FILMES EM CARTAZ</h3>
-    </div>
     </div>
     <div class = "link">
       <a href="#" class = "link1" >Home ></a>
@@ -66,6 +68,7 @@
       <p class = "parag"><br/>Programação em:</p>
       <p class="black"><br/> PRAÇA RIO GRANDE SHOPPING</p>
     </div>
+  </div>
     <div class = "menu">
       <button type="button" name="button" class = "programacao"> Programação</button>
       <button type="button" name="button" class = "precos">Preços</button>
