@@ -8,31 +8,32 @@ body  {
 	background: #fff;
 }
 div.logo{
-  width:100%;
-  height: 25%;
+  height: 250px;
   background-color: red;
   border-color: red;
   padding-right: 50px;
-  position:absolute;
+  position:relative;
 }
 div.logo img.filme {
   display: block;
+	width: 45%;
+	height: 90px;
   margin-left: auto;
   margin-right: auto;
 }
 div.logo img.cine {
   display: block;
   top:20%;
-  left:440px;
+  left:15%;
   position: relative;
 }
 
 div.logo input{
   border-color: red;
   color:white;
-  width: 360px;
-  height: 20px;
-  left: 63em;
+  width:360px;
+  height:20px;
+  left:45em;
   position:absolute;
 }
 div.logo button.lupa {
@@ -41,7 +42,7 @@ div.logo button.lupa {
   position:absolute;
   width:25px;
   height:26px;
-  left: 90em;
+  left: 70.5em;
 }
 div.logo button.contato {
   background-color: orange;
@@ -50,7 +51,7 @@ div.logo button.contato {
   position:absolute;
   width:150px;
   height:26px;
-  left: 100em;
+  left: 80em;
 }
 div.logo button.celular {
   background-image: url("celular.png");
@@ -58,18 +59,18 @@ div.logo button.celular {
   position:absolute;
   width:32px;
   height:32px;
-  left: 113em;
+  left:92em;
 }
 div.menus_topo{
   position: absolute;
-  top:77%;
+  top:72%;
 }
 div.logo button.menu1 {
   color:white;
   background-color: red;
   border-style: none;
   font-family:monospace;
-  left: 56em;
+  left: 34em;
   position:absolute;
 }
 div.logo button.menu2 {
@@ -77,7 +78,7 @@ div.logo button.menu2 {
   background-color: red;
   border-style: none;
   font-family: monospace;
-  left:65em;
+  left:41em;
   position:absolute;
 }
 div.logo button.menu3 {
@@ -86,7 +87,7 @@ div.logo button.menu3 {
   border-style: none;
   font-family: monospace;
   width: 160px;
-  left:73em;
+  left:48em;
   position:absolute;
 }
 div.logo button.menu4 {
@@ -94,7 +95,7 @@ div.logo button.menu4 {
   background-color: red;
   border-style: none;
   font-family: monospace;
-  left:86em;
+  left:59em;
   position:absolute;
 }
 div.logo button.menu5 {
@@ -102,7 +103,7 @@ div.logo button.menu5 {
   background-color: red;
   border-style: none;
   font-family: monospace;
-  left:94em;
+  left:66em;
   position:absolute;
 
 }
@@ -111,7 +112,7 @@ div.logo button.menu6 {
   background-color: red;
   border-style: none;
   font-family: monospace;
-  left:102em;
+  left:72em;
   position:absolute;
 
 }
@@ -121,7 +122,7 @@ div.logo button.menu7 {
   border-style: none;
   font-family: monospace;
   width: 130px;
-  left:107em;
+  left:76.5em;
   position:absolute;
 }
 div.logo button.menu8 {
@@ -129,23 +130,22 @@ div.logo button.menu8 {
   background-color: red;
   border-style: none;
   font-family: monospace;
-  left:116em;
+  left:86em;
   position:absolute;
 }
 div.meio{
+	position: absolute;
   width:100%;
-  top:500%;
   background-color: blue;
   height:42px;
-
+  margin-top:0;
 }
 div.meio h4{
   background-color: blue;
   font-family: monospace;
   position:absolute;
-  top:25%;
   color:white;
-  left:23%;
+  left:15%;
 }
 div.meio button.h51 {
   background-color: blue;
@@ -154,70 +154,88 @@ div.meio button.h51 {
   position:absolute;
   color:white;
   top:27%;
+	left:42em;
   height:22px;
-  left:46%;
 }
 div.meio button.h52 {
   background-color: blue;
   border-style: none;
+	top:27%;
   font-family: arial, helvetica, sans-serif;
   position:absolute;
   color:white;
-  top:27%;
   height:22px;
-  left:59%;
+  left:61em;
+}
+div.meio button.escolha {
+  background-color: yellow;
+  border-style: none;
+  font-family: arial, helvetica, sans-serif;
+  position:absolute;
+  color:white;
+	top:27%;
+  height:22px;
+  left:78em;
 }
 div.titulo1{
+	position: absolute;
   background-color: white;
-  width: 100%;
-  height: 120px;
+  width:100%;
+	top:20em;
+  height:30px;
 }
 div.titulo {
   font-family: arial, helvetica, sans-serif;
-  position:absolute;
+  position:relative;
+	width: 50%;
   height: 22px;
-  top:33%;
-  left:23%;
+  left:15%;
 }
 div.link{
   position:absolute;
   background-color: white;
-  top:40%;
-  width:100%;
+  width:80%;
   height:80px;
+	top:60px;
+	left:15%;
 }
 div.link a.link1 {
   color:grey;
   position:absolute;
-  left:22.5%;
+	float: left;
 }
 div.link a.link2 {
   color:grey;
   position:absolute;
-  left:25.5%;
+	left:4em;
+	float: left;
 }
 div.link p.p1{
   position:absolute;
   color:black;
   top:-20%;
-  left:36%;
+  left:17em;
+	float: left;
 }
 div.link p.parag{
   position:absolute;
   color:grey;
-  left:22.5%;
+	float: left;
 }
 div.link p.black{
   position:absolute;
   color:black;
-  left:28.5%;
+  left:8em;
+	float:left;
 }
 div.menu {
   background-color: white;
   position: absolute;
-  top:47%;
-  width: 100%;
+  top:28em;
+  width:80%;
   height:40px;
+	left:15%;
+	float:left;
 }
 div.menu button.programacao {
   position:absolute;
@@ -225,7 +243,6 @@ div.menu button.programacao {
   color:white;
   width:200px;
   height:30px;
-  left:22.5%;
 }
 div.menu button.precos {
   position:absolute;
@@ -234,7 +251,7 @@ div.menu button.precos {
   width:200px;
   width:200px;
   height:30px;
-  left:32.5%;
+  left:14.5em;
 }
 div.menu button.promocao {
   position:absolute;
@@ -242,7 +259,7 @@ div.menu button.promocao {
   color:white;
   width:200px;
   height:30px;
-  left:42.5%;
+  left:29em;
 }
 div.menu button.localizacao {
   position:absolute;
@@ -250,22 +267,22 @@ div.menu button.localizacao {
   color:white;
   width:200px;
   height:30px;
-  left:52.5%;
+  left:44em;
 }
 div.opcoes{
   position:absolute;
   background-color: white;
-  top:50%;
-  width:100%;
+  top:30em;
+  width:85%;
   height:250px;
+	left: 15%;
 }
 div.opcoes button.autopsia{
   position:absolute;
   background-color:white;
   color:white;
-  width:50%;
+  width:70em;
   height:50px;
-  left:22.5%;
 }
 div.opcoes button.autopsia div{
   position:absolute;
@@ -333,10 +350,9 @@ div.opcoes button.cabana{
   position:absolute;
   background-color:white;
   color:white;
-  width:50%;
+  width:70em;
   height:50px;
   top:20%;
-  left:22.5%;
 }
 div.opcoes button.cabana div{
   position:absolute;
@@ -403,9 +419,8 @@ div.opcoes button.alien{
   position:absolute;
   background-color:white;
   color:white;
-  width:50%;
+  width:70em;
   height:50px;
-  left:22.5%;
   top:40%;
 }
 div.opcoes button.alien div{
@@ -485,9 +500,8 @@ div.opcoes button.guardioes{
   position:absolute;
   background-color:white;
   color:white;
-  width:50%;
+  width:70em;
   height:50px;
-  left:22.5%;
   top:60%;
 }
 div.opcoes button.guardioes div{
@@ -564,9 +578,8 @@ div.opcoes button.poderoso{
   position:absolute;
   background-color:white;
   color:white;
-  width:50%;
+  width:70em;
   height:50px;
-  left:22.5%;
   top:80%;
 }
 div.opcoes button.poderoso div{
@@ -634,9 +647,8 @@ div.opcoes button.rock{
   position:absolute;
   background-color:white;
   color:white;
-  width:50%;
+  width:70em;
   height:50px;
-  left:22.5%;
   top:100%;
 }
 div.opcoes button.rock div{
@@ -689,9 +701,8 @@ div.opcoes button.velozes{
   position:absolute;
   background-color:white;
   color:white;
-  width:50%;
+  width:70em;
   height:50px;
-  left:22.5%;
   top:120%;
 }
 div.opcoes button.velozes div{
