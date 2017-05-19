@@ -275,17 +275,17 @@ div.data{
   top:28em;
   width:23px;
   height:23px;
-	left:64em;
+	left:68em;
 
 }
 div.data p{
-	position:absolute;
+	position:relative;
   color: grey;
 	top:-1em;
 	white-space:nowrap;
   width:20px;
   height:20px;
-	left:1.8em;
+	left:1.5em;
 
 }
 div.opcoes{
@@ -881,4 +881,20 @@ div.opcoes button.velozes div.sala7 p.hr7{
   color:grey;
   top:-70%;
   left:115%
+}
+div.fim_menu{
+	position:absolute;
+	background-color:grey;
+	top:133.7%;
+	left:15%;
+	width:78.3%;
+	height:60px;
+}
+div.fim_menu p{
+	color:white;
+}
+div.fim_menu p.para2{
+	position: absolute;
+	color:white;
+	top:30%;
 }
