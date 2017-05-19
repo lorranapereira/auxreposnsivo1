@@ -113,6 +113,10 @@
     <button class="img7"></button>
     <button class="img77"></button>
     </div>
+    <div class="fim_menu">
+      <p class="para1">Salas Especiais:</p>
+      <p class="para2">Cinépic: Sala 4</p>
+    </div>
   </div>
   </body>
 </html>
