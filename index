@@ -117,6 +117,23 @@
       <p class="para1">Salas Especiais:</p>
       <p class="para2">Cinépic: Sala 4</p>
     </div>
-  </div>
+    <div class="informacoes">
+      <p class = "text1"><strong>Direito a meia entrada</strong></p>
+      <p class = "text2">
+        <strong>Crianças e Jovens:</strong> Crianças e jovens de 03 a 15 anos mediante comprovação com documento oficial.<br/><br/>
+        <strong>Estudante:</strong> Para estudantes universitários: Carteirinha expedida pelo D.C.E. Para secundaristas e demais estudantes: Carteirinha expedida pelo URES.<br/><br/>
+        <strong>Sênior:</strong> Acima de 60 anos mediante comprovação com documento oficial.<br/><br/>
+        <strong>Deficientes:</strong> Assegurado o direito a meia entrada.<br/>
+        *Crianças menores de 03 anos não pagam.*<br/>
+        *Os benefícios não acumulam com promoções (segundo Lei Federal: 12.933/2013)*</p>
+      <p class = "text3"><strong>Troca ou Devolução</strong></p>
+      <p class = "text4">
+        Não realizamos troca ou devolução do valor de ingressos após a entrada na sala
+        ou início da sessão.<br/><br/>
+        HORÁRIOS SUJEITOS A ALTERAÇÃO SEM AVISO PRÉVIO<br/><br/>
+        *Atenção<br/>
+        Para obter o direito à meia entrada os estudantes devem portar a Carteirinha de Identificação Estudantil - CIE. As CIEs devem seguir um padrão nacional com certificação digital e emitida pelas entidades representativas, válido em todo o território nacional (Lei Federal nº 12.933/2013).</p>
+      </div>
+    </div>
   </body>
 </html>
