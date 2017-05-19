@@ -75,6 +75,7 @@
       <button type="button" name="button" class = "promocao">Promoções</button>
       <button type="button" name="button" class = "localizacao">Localização</button>
     </div>
+    <div class = "data"><p>12/05 sexta-feira</p></div>
     <div class="opcoes">
     <button type="button" name="button" class = "autopsia">
         <div> \/ A Autopsia </div><div class = "filme1">Terror,suspense </div><div class="leng1">Legendado<p> Dublado</p></div><div class="sala1">Sala 3: <p class = "hr1">19:30</p><p class = "sala11">Sala 3:<p class = "hr11">17:35</p></p></div>
