@@ -33,7 +33,7 @@ div.logo input{
   color:white;
   width:360px;
   height:20px;
-  left:45em;
+  left:45%;
   position:absolute;
 }
 div.logo button.lupa {
@@ -42,7 +42,7 @@ div.logo button.lupa {
   position:absolute;
   width:25px;
   height:26px;
-  left: 70.5em;
+  left: 74%;
 }
 div.logo button.contato {
   background-color: orange;
@@ -51,7 +51,7 @@ div.logo button.contato {
   position:absolute;
   width:150px;
   height:26px;
-  left: 80em;
+  left: 80%;
 }
 div.logo button.celular {
   background-image: url("celular.png");
@@ -59,7 +59,7 @@ div.logo button.celular {
   position:absolute;
   width:32px;
   height:32px;
-  left:92em;
+  left:95%;
 }
 div.menus_topo{
   position: absolute;
@@ -175,7 +175,7 @@ div.meio button.escolha {
   color:white;
 	top:27%;
   height:22px;
-  left:78em;
+  left:80%;
 }
 div.titulo1{
 	position: absolute;
@@ -275,7 +275,7 @@ div.data{
   top:28em;
   width:23px;
   height:23px;
-	left:68em;
+	left:85%;
 
 }
 div.data p{
@@ -300,13 +300,13 @@ div.opcoes button.autopsia{
   position:absolute;
   background-color:white;
   color:white;
-  width:70em;
+  width:85.5%;
   height:60px;
 }
 div.opcoes button.img1{
   position:absolute;
 	background-image: url("buy.png");
-  left:69.6em;
+  left:85%;
 	top:0em;
   width:65px;
   height:60px;
@@ -314,7 +314,7 @@ div.opcoes button.img1{
 div.opcoes button.img11{
   position:absolute;
 	background-image: url("img14.png");
-  left:74.4em;
+  left:91%;
 	top:0em;
   width:65px;
   height:60px;
@@ -385,7 +385,7 @@ div.opcoes button.cabana{
   position:absolute;
   background-color:white;
   color:white;
-  width:70em;
+  width:85.5%;
   height:60px;
 	left:0;
   top:23%;
@@ -395,7 +395,7 @@ div.opcoes button.img2{
 	background-image: url("buy.png");
 	width:65px;
   height:60px;
-  left:69.6em;
+  left:85%;
   top:4.4em;
 }
 div.opcoes button.img22{
@@ -403,7 +403,7 @@ div.opcoes button.img22{
 	background-image: url("img12.png");
 	width:65px;
   height:60px;
-	left:74.4em;
+	left:91%;
   top:4.4em;
 }
 div.opcoes button.cabana div{
@@ -471,7 +471,7 @@ div.opcoes button.alien{
   position:absolute;
   background-color:white;
   color:white;
-  width:70em;
+  width:85.5%;
   height:60px;
   top:46%;
 }
@@ -480,7 +480,7 @@ div.opcoes button.img3{
 	background-image: url("buy.png");
 	width:65px;
   height:60px;
-  left:69.6em;
+  left:85%;
   top:8.7em;
 }
 div.opcoes button.img33{
@@ -488,7 +488,7 @@ div.opcoes button.img33{
 	background-image: url("img16.png");
 	width:65px;
   height:60px;
-	left:74.4em;
+  left:91%;
   top:8.7em;
 }
 div.opcoes button.alien div{
@@ -568,7 +568,7 @@ div.opcoes button.guardioes{
   position:absolute;
   background-color:white;
   color:white;
-  width:70em;
+  width:85.5%;
   height:60px;
   top:69%;
 }
@@ -577,7 +577,7 @@ div.opcoes button.img4{
 	background-image: url("buy.png");
 	width:65px;
   height:60px;
-  left:69.6em;
+  left:85%;
   top:13em;
 }
 div.opcoes button.img44{
@@ -585,7 +585,7 @@ div.opcoes button.img44{
 	background-image: url("img12.png");
 	width:65px;
   height:60px;
-  left:74.4em;
+  left:91%;
   top:13em;
 }
 div.opcoes button.guardioes div{
@@ -662,7 +662,7 @@ div.opcoes button.poderoso{
   position:absolute;
   background-color:white;
   color:white;
-  width:70em;
+  width:85.5%;
   height:60px;
   top:92%;
 }
@@ -671,7 +671,7 @@ div.opcoes button.img5{
 	background-image: url("buy.png");
 	width:65px;
   height:60px;
-  left:69.6em;
+  left:85%;
   top:17.4em;
 }
 div.opcoes button.img55{
@@ -679,7 +679,7 @@ div.opcoes button.img55{
 	background-image: url("imgl.png");
 	width:65px;
   height:60px;
-	left:74.4em;
+  left:91%;
   top:17.4em;
 }
 div.opcoes button.poderoso div{
@@ -747,7 +747,7 @@ div.opcoes button.rock{
   position:absolute;
   background-color:white;
   color:white;
-  width:70em;
+  width:85.5%;
   height:60px;
   top:115%;
 }
@@ -756,7 +756,7 @@ div.opcoes button.img6{
 	background-image: url("buy.png");
 	width:65px;
   height:60px;
-  left:69.6em;
+  left:85%;
   top:21.7em;
 }
 div.opcoes button.img66{
@@ -764,7 +764,7 @@ div.opcoes button.img66{
 	background-image: url("imgl.png");
 	width:65px;
   height:60px;
-	left:74.4em;
+	left:91%;
   top:21.7em;
 }
 div.opcoes button.rock div{
@@ -817,7 +817,7 @@ div.opcoes button.velozes{
   position:absolute;
   background-color:white;
   color:white;
-  width:70em;
+  width:85.5%;
   height:60px;
   top:138%;
 }
@@ -826,7 +826,7 @@ div.opcoes button.img7{
 	background-image: url("buy.png");
 	width:65px;
   height:60px;
-  left:69.6em;
+  left:85%;
   top:25.9em;
 }
 div.opcoes button.img77{
@@ -834,7 +834,7 @@ div.opcoes button.img77{
 	background-image: url("img14.png");
 	width:65px;
   height:60px;
-	left:74.4em;
+	left:91%;
   top:25.9em;
 }
 div.opcoes button.velozes div{
@@ -887,7 +887,7 @@ div.fim_menu {
 	background-color:grey;
 	top:55.3em;
 	left:15%;
-	width:1057px;
+	width:82.8%;
 	height:60px;
 }
 div.fim_menu p {
