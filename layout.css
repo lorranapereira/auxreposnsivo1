@@ -287,7 +287,7 @@ div.opcoes button.autopsia{
 div.opcoes button.img1{
   position:absolute;
 	background-image: url("buy.png");
-  left:81%;
+  left:69.6em;
 	top:0em;
   width:65px;
   height:60px;
@@ -295,7 +295,7 @@ div.opcoes button.img1{
 div.opcoes button.img11{
   position:absolute;
 	background-image: url("img14.png");
-  left:86.5%;
+  left:74.4em;
 	top:0em;
   width:65px;
   height:60px;
@@ -376,7 +376,7 @@ div.opcoes button.img2{
 	background-image: url("buy.png");
 	width:65px;
   height:60px;
-	left:81%;
+  left:69.6em;
   top:4.4em;
 }
 div.opcoes button.img22{
@@ -384,7 +384,7 @@ div.opcoes button.img22{
 	background-image: url("img12.png");
 	width:65px;
   height:60px;
-	left:86.5%;
+	left:74.4em;
   top:4.4em;
 }
 div.opcoes button.cabana div{
@@ -461,7 +461,7 @@ div.opcoes button.img3{
 	background-image: url("buy.png");
 	width:65px;
   height:60px;
-	left:81%;
+  left:69.6em;
   top:8.7em;
 }
 div.opcoes button.img33{
@@ -469,7 +469,7 @@ div.opcoes button.img33{
 	background-image: url("img16.png");
 	width:65px;
   height:60px;
-	left:86.5%;
+	left:74.4em;
   top:8.7em;
 }
 div.opcoes button.alien div{
@@ -558,7 +558,7 @@ div.opcoes button.img4{
 	background-image: url("buy.png");
 	width:65px;
   height:60px;
-	left:81%;
+  left:69.6em;
   top:13em;
 }
 div.opcoes button.img44{
@@ -566,7 +566,7 @@ div.opcoes button.img44{
 	background-image: url("img12.png");
 	width:65px;
   height:60px;
-	left:86.5%;
+  left:74.4em;
   top:13em;
 }
 div.opcoes button.guardioes div{
@@ -652,7 +652,7 @@ div.opcoes button.img5{
 	background-image: url("buy.png");
 	width:65px;
   height:60px;
-	left:81%;
+  left:69.6em;
   top:17.4em;
 }
 div.opcoes button.img55{
@@ -660,7 +660,7 @@ div.opcoes button.img55{
 	background-image: url("imgl.png");
 	width:65px;
   height:60px;
-	left:86.5%;
+	left:74.4em;
   top:17.4em;
 }
 div.opcoes button.poderoso div{
@@ -737,7 +737,7 @@ div.opcoes button.img6{
 	background-image: url("buy.png");
 	width:65px;
   height:60px;
-	left:81%;
+  left:69.6em;
   top:21.7em;
 }
 div.opcoes button.img66{
@@ -745,7 +745,7 @@ div.opcoes button.img66{
 	background-image: url("imgl.png");
 	width:65px;
   height:60px;
-	left:86.5%;
+	left:74.4em;
   top:21.7em;
 }
 div.opcoes button.rock div{
@@ -807,7 +807,7 @@ div.opcoes button.img7{
 	background-image: url("buy.png");
 	width:65px;
   height:60px;
-	left:81%;
+  left:69.6em;
   top:25.9em;
 }
 div.opcoes button.img77{
@@ -815,7 +815,7 @@ div.opcoes button.img77{
 	background-image: url("img14.png");
 	width:65px;
   height:60px;
-	left:86.5%;
+	left:74.4em;
   top:25.9em;
 }
 div.opcoes button.velozes div{
