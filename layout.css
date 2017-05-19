@@ -59,7 +59,7 @@ div.logo button.celular {
   position:absolute;
   width:32px;
   height:32px;
-  left:95%;
+  left:94%;
 }
 div.menus_topo{
   position: absolute;
@@ -314,7 +314,7 @@ div.opcoes button.img1{
 div.opcoes button.img11{
   position:absolute;
 	background-image: url("img14.png");
-  left:91%;
+  left:90.5%;
 	top:0em;
   width:65px;
   height:60px;
@@ -403,7 +403,7 @@ div.opcoes button.img22{
 	background-image: url("img12.png");
 	width:65px;
   height:60px;
-	left:91%;
+  left:90.5%;
   top:4.4em;
 }
 div.opcoes button.cabana div{
@@ -488,7 +488,7 @@ div.opcoes button.img33{
 	background-image: url("img16.png");
 	width:65px;
   height:60px;
-  left:91%;
+  left:90.5%;
   top:8.7em;
 }
 div.opcoes button.alien div{
@@ -585,7 +585,7 @@ div.opcoes button.img44{
 	background-image: url("img12.png");
 	width:65px;
   height:60px;
-  left:91%;
+  left:90.5%;
   top:13em;
 }
 div.opcoes button.guardioes div{
@@ -679,7 +679,7 @@ div.opcoes button.img55{
 	background-image: url("imgl.png");
 	width:65px;
   height:60px;
-  left:91%;
+  left:90.5%;
   top:17.4em;
 }
 div.opcoes button.poderoso div{
@@ -764,7 +764,7 @@ div.opcoes button.img66{
 	background-image: url("imgl.png");
 	width:65px;
   height:60px;
-	left:91%;
+  left:90.5%;
   top:21.7em;
 }
 div.opcoes button.rock div{
@@ -834,7 +834,7 @@ div.opcoes button.img77{
 	background-image: url("img14.png");
 	width:65px;
   height:60px;
-	left:91%;
+  left:90.5%;
   top:25.9em;
 }
 div.opcoes button.velozes div{
@@ -887,7 +887,7 @@ div.fim_menu {
 	background-color:grey;
 	top:55.3em;
 	left:15%;
-	width:82.8%;
+	width:81.8%;
 	height:60px;
 }
 div.fim_menu p {
