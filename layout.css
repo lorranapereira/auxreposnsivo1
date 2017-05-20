@@ -42,7 +42,7 @@ div.logo button.lupa {
   position:absolute;
   width:25px;
   height:26px;
-  left: 74%;
+	left: 71em;
 }
 div.logo button.contato {
   background-color: orange;
@@ -70,7 +70,7 @@ div.logo button.menu1 {
   background-color: red;
   border-style: none;
   font-family:monospace;
-  left: 34em;
+  left: 38em;
   position:absolute;
 }
 div.logo button.menu2 {
@@ -78,7 +78,7 @@ div.logo button.menu2 {
   background-color: red;
   border-style: none;
   font-family: monospace;
-  left:41em;
+  left:45em;
   position:absolute;
 }
 div.logo button.menu3 {
@@ -87,7 +87,7 @@ div.logo button.menu3 {
   border-style: none;
   font-family: monospace;
   width: 160px;
-  left:48em;
+  left:52em;
   position:absolute;
 }
 div.logo button.menu4 {
@@ -95,7 +95,7 @@ div.logo button.menu4 {
   background-color: red;
   border-style: none;
   font-family: monospace;
-  left:59em;
+  left:63em;
   position:absolute;
 }
 div.logo button.menu5 {
@@ -103,7 +103,7 @@ div.logo button.menu5 {
   background-color: red;
   border-style: none;
   font-family: monospace;
-  left:66em;
+  left:69em;
   position:absolute;
 
 }
@@ -112,7 +112,7 @@ div.logo button.menu6 {
   background-color: red;
   border-style: none;
   font-family: monospace;
-  left:72em;
+  left:75em;
   position:absolute;
 
 }
@@ -122,7 +122,7 @@ div.logo button.menu7 {
   border-style: none;
   font-family: monospace;
   width: 130px;
-  left:76.5em;
+  left:80em;
   position:absolute;
 }
 div.logo button.menu8 {
@@ -130,7 +130,7 @@ div.logo button.menu8 {
   background-color: red;
   border-style: none;
   font-family: monospace;
-  left:86em;
+  left:89em;
   position:absolute;
 }
 div.meio{
@@ -902,8 +902,8 @@ div.informacoes {
 	position:absolute;
 	top:60em;
 	left:15%;
-	max-width:780px;
-	height:300px;
+	max-width:650px;
+	height:430px;
 }
 div.informacoes p.text1{
 	color:blue;
@@ -918,4 +918,108 @@ div.informacoes p.text3{
 }
 div.informacoes p.text4{
 	left:15%;
+}
+div.informacoes button{
+	left:15%;
+	background-color: orange;
+	color:white;
+	width: 500px;
+	height:30px;
+}
+div.informativos {
+	position:absolute;
+	top:60em;
+	margin-left:62.7%;
+	height:200px;
+}
+div.informativos p{
+  text-align: center;
+	color:blue;
+}
+div.informativos button.informa1{
+	padding-left: 50px;
+	width: 460px;
+	background-color: orange;
+	color: white;
+
+}
+div.informativos button.informa2{
+		padding-left: 50px;
+	  width: 460px;
+		background-color: orange;
+		color: white;
+		height: 30px;
+}
+div.informativos button.informa3{
+		padding-left: 50px;
+		width: 460px;
+		background-color: orange;
+		color: white;
+		height: 30px;
+}
+div.mapa_site{
+	position:absolute;
+	background-color:#F5F1F1;
+	top: 97em;
+	width: 100%;
+	height: 200px;
+}
+div.mapa_site p.mapa{
+	position: absolute;
+	top: 2em;
+	left: 15%;
+	color: red;
+}
+div.mapa_site p.text{
+	position: absolute;
+	top: 2em;
+	left: 70%;
+	color: red;
+}
+div.mapa_site input{
+	position: absolute;
+	top: 3.5em;
+	left: 80%;
+}
+div.conteudo a:link {
+	text-decoration: none;
+}
+div.conteudo div.img {
+	position: absolute;
+	background-image: url("imgfinal.png");
+	width:115px;
+	height:20px;
+	left:70em;
+	top:8em;
+}
+div.conteudo div.coluna1 {
+	position:absolute;
+	margin-top: 5em;
+	left: 15%;
+}
+div.conteudo div.coluna2 {
+	position:absolute;
+	margin-top: 5em;
+	left: 24em;
+}
+div.conteudo div.coluna3 {
+	position:absolute;
+	margin-top: 6em;
+	left: 36em;
+}
+div.conteudo div.coluna4 {
+	position:absolute;
+	top:-1em;
+	left:10em;
+	white-space: nowrap;
+}
+div.conteudo div.coluna5 {
+	position:absolute;
+	top:0;
+	left: 10em;
+}
+div.conteudo div.coluna6 {
+	position:absolute;
+	top:0;
+	left: 20em;
 }
