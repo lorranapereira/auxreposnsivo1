@@ -133,6 +133,53 @@
         HORÁRIOS SUJEITOS A ALTERAÇÃO SEM AVISO PRÉVIO<br/><br/>
         *Atenção<br/>
         Para obter o direito à meia entrada os estudantes devem portar a Carteirinha de Identificação Estudantil - CIE. As CIEs devem seguir um padrão nacional com certificação digital e emitida pelas entidades representativas, válido em todo o território nacional (Lei Federal nº 12.933/2013).</p>
+        <button type="button" name="button">LEI FEDERAL N° 12.933/2013</button>
+        </div>
+        <div class="informativos">
+          <p>INFORMATIVOS</p>
+          <button type="button" name="button" class = "informa1">IMPRIMIR TERMO DE AUTORIZAÇÃO PARA RECOMENDAÇÃO ETÁRIA</button><br/><br/>
+          <button type="button" name="button" class = "informa2" >PORTARIA DE CLASSIFICAÇÃO INDICATIVA</button><br/><br/>
+          <button type="button" name="button" class = "informa3">SIMBOLOGIA DE CLASSIFICAÇÃO INDICATIVA</button>
+      </div>
+      <div class="mapa_site">
+        <p class = "mapa">MAPA DO SITE</p>
+        <p class = "text">NEWSLETTER</p>
+        <input type="text" name="" value="">
+        <div class="conteudo">
+          <div class="img">
+
+          </div>
+          <div class = "coluna1">
+            <a href="#">Cinesystem</a><br/>
+            <a href="#">Quem Somos</a><br/>
+            <a href="#">Trabalhe Conosco</a><br/>
+            <a href="#">Sala de Imprensa</a><br/>
+          </div>
+          <div class = "coluna2">
+            <a href="#">Clube da Pipoca</a><br/>
+            <a href="#">O que é</a><br/>
+            <a href="#">Prêmios e Vantagens</a><br/>
+            <a href="#">Parcerias</a><br/>
+          </div>
+          <div class = "coluna3">
+            <a href="#">Promoções</a><br/>
+            <a href="#">Aplicativos</a><br/>
+          <div/>
+          <div class = "coluna4">
+            <a href="#">Filmes em Cartaz</a><br/>
+            <a href="#">Estreias</a><br/>
+            <a href="#">Próximas Estreias</a><br/>
+            <a href="#">Trailers</a><br/>
+          <div/>
+          <div class="coluna5">
+            <a href="#">FAQ / Fale Conosco</a><br/>
+            <a href="#">Comercial</a><br/>
+          </div>
+          <div class = "coluna6">
+            <a href="#">Política de Privacidade</a><br/>
+            <a href="#">Nota Fiscal Carioca</a><br/>
+          </div>
+        </div>
       </div>
     </div>
   </body>
