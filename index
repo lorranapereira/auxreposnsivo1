@@ -10,7 +10,7 @@
     <div class="logo">
     <img src="filme.jpg" alt="" class = "filme">
     <img src="logocine.png" alt="" class = "cine">
-    <input type="text" name="" value="" align="center">
+    <input type="text" name="" value="" align="center" placeholder="O que está procurando?">
     <button type="button" name="button" class = "lupa">
     </button>
     <button type="button" name="button" class = "contato">
@@ -56,6 +56,14 @@
       <button type="button" name="button" class = "escolha">
       ESCOLHA OUTRO MULTIPLEX \/
       </button>
+    </div>
+    <div class="icones">
+      <a href="#" class = "face"></a>
+      <a href="#" class = "twitter"></a>
+      <a href="#" class = "instagram"></a>
+      <a href="#" class = "plus"></a>
+      <a href="#" class = "youtube"></a>
+      <a href="#" class = "pinte"></a>
     </div>
     <div class = "titulo1">
     <div class="titulo">
@@ -144,7 +152,8 @@
       <div class="mapa_site">
         <p class = "mapa">MAPA DO SITE</p>
         <p class = "text">NEWSLETTER</p>
-        <input type="text" name="" value="">
+        <input type="text" name="" value="" placeholder="Dígite seu e-mail">
+        <button type="button" name="button"></button>
         <div class="conteudo">
           <div class="img">
 
