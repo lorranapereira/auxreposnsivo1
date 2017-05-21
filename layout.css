@@ -9,8 +9,8 @@ body  {
 }
 div.logo{
   height: 250px;
-  background-color: red;
-  border-color: red;
+  background-color: #EA1212;
+  border-color: #EA1212;
   padding-right: 50px;
   position:relative;
 }
@@ -45,8 +45,8 @@ div.logo button.lupa {
 	left: 71em;
 }
 div.logo button.contato {
-  background-color: orange;
-  border-color: orange;
+  background-color: #EAB412;
+  border-color: #EAB412;
   color:white;  font-family:monospace;
   position:absolute;
   width:150px;
@@ -55,7 +55,7 @@ div.logo button.contato {
 }
 div.logo button.celular {
   background-image: url("celular.png");
-  border-color: orange;
+  border-color: #EAB412;
   position:absolute;
   width:32px;
   height:32px;
@@ -67,7 +67,7 @@ div.menus_topo{
 }
 div.logo button.menu1 {
   color:white;
-  background-color: red;
+  background-color: #EA1212;
   border-style: none;
   font-family:monospace;
   left: 38em;
@@ -75,7 +75,7 @@ div.logo button.menu1 {
 }
 div.logo button.menu2 {
   color:white;
-  background-color: red;
+  background-color: #EA1212;
   border-style: none;
   font-family: monospace;
   left:45em;
@@ -83,7 +83,7 @@ div.logo button.menu2 {
 }
 div.logo button.menu3 {
   color:white;
-  background-color: red;
+  background-color: #EA1212;
   border-style: none;
   font-family: monospace;
   width: 160px;
@@ -92,7 +92,7 @@ div.logo button.menu3 {
 }
 div.logo button.menu4 {
   color:white;
-  background-color: red;
+  background-color: #EA1212;
   border-style: none;
   font-family: monospace;
   left:63em;
@@ -100,7 +100,7 @@ div.logo button.menu4 {
 }
 div.logo button.menu5 {
   color:white;
-  background-color: red;
+  background-color:#EA1212;
   border-style: none;
   font-family: monospace;
   left:69em;
@@ -109,7 +109,7 @@ div.logo button.menu5 {
 }
 div.logo button.menu6 {
   color:white;
-  background-color: red;
+  background-color:#EA1212;
   border-style: none;
   font-family: monospace;
   left:75em;
@@ -118,7 +118,7 @@ div.logo button.menu6 {
 }
 div.logo button.menu7 {
   color:white;
-  background-color: red;
+  background-color: #EA1212;
   border-style: none;
   font-family: monospace;
   width: 130px;
@@ -127,7 +127,7 @@ div.logo button.menu7 {
 }
 div.logo button.menu8 {
   color:white;
-  background-color: red;
+  background-color: #EA1212;
   border-style: none;
   font-family: monospace;
   left:89em;
@@ -136,19 +136,19 @@ div.logo button.menu8 {
 div.meio{
 	position: absolute;
   width:100%;
-  background-color: blue;
+  background-color: #0768B2;
   height:42px;
   margin-top:0;
 }
 div.meio h4{
-  background-color: blue;
+  background-color: #0768B2;
   font-family: monospace;
   position:absolute;
   color:white;
   left:15%;
 }
 div.meio button.h51 {
-  background-color: blue;
+  background-color: #0768B2;
   border-style: none;
   font-family: arial, helvetica, sans-serif;
   position:absolute;
@@ -158,7 +158,7 @@ div.meio button.h51 {
   height:22px;
 }
 div.meio button.h52 {
-  background-color: blue;
+  background-color: #0768B2;
   border-style: none;
 	top:27%;
   font-family: arial, helvetica, sans-serif;
@@ -168,8 +168,8 @@ div.meio button.h52 {
   left:61em;
 }
 div.meio button.escolha {
-  background-color: yellow;
-  border-style: none;
+  background-color: #EAB412;
+	border-color: #EAB412;
   font-family: arial, helvetica, sans-serif;
   position:absolute;
   color:white;
@@ -181,7 +181,7 @@ div.icones{
 	background-color: #474646;
 	position: absolute;
 	top:18.1em;
-	left: 81em;
+	margin-left: 96.3%;
 	width: 50px;
 	height: 200px;
 }
@@ -296,7 +296,7 @@ div.menu {
 }
 div.menu button.programacao {
   position:absolute;
-  background-color: grey;
+  background-color: #0768B2;
   color:white;
   width:200px;
   height:30px;
@@ -357,24 +357,24 @@ div.opcoes button.autopsia{
   position:absolute;
   background-color:white;
   color:white;
-  width:85.5%;
-  height:60px;
+  width:75%;
+  height:23%;
 }
 div.opcoes button.img1{
   position:absolute;
 	background-image: url("buy.png");
-  left:85%;
+  right:16.5em;
 	top:0em;
-  width:65px;
-  height:60px;
+  width:5em;
+  height:4.3em;
 }
 div.opcoes button.img11{
   position:absolute;
 	background-image: url("img14.png");
-  left:90.5%;
+  right:11.5em;
 	top:0em;
-  width:65px;
-  height:60px;
+	width:5em;
+  height:23%;
 }
 div.opcoes button.autopsia div{
   position:absolute;
@@ -442,7 +442,7 @@ div.opcoes button.cabana{
   position:absolute;
   background-color:white;
   color:white;
-  width:85.5%;
+  width:75%;
   height:60px;
 	left:0;
   top:23%;
@@ -528,7 +528,7 @@ div.opcoes button.alien{
   position:absolute;
   background-color:white;
   color:white;
-  width:85.5%;
+  width:75%;
   height:60px;
   top:46%;
 }
@@ -625,7 +625,7 @@ div.opcoes button.guardioes{
   position:absolute;
   background-color:white;
   color:white;
-  width:85.5%;
+  width:75%;
   height:60px;
   top:69%;
 }
@@ -719,7 +719,7 @@ div.opcoes button.poderoso{
   position:absolute;
   background-color:white;
   color:white;
-  width:85.5%;
+  width:75%;
   height:60px;
   top:92%;
 }
@@ -804,7 +804,7 @@ div.opcoes button.rock{
   position:absolute;
   background-color:white;
   color:white;
-  width:85.5%;
+  width:75%;
   height:60px;
   top:115%;
 }
@@ -874,7 +874,7 @@ div.opcoes button.velozes{
   position:absolute;
   background-color:white;
   color:white;
-  width:85.5%;
+  width:75%;
   height:60px;
   top:138%;
 }
