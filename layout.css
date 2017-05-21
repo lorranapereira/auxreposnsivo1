@@ -350,7 +350,7 @@ div.opcoes{
   background-color: white;
   top:30em;
   width:85%;
-  height:250px;
+  height:18em;
 	left: 15%;
 }
 div.opcoes button.autopsia{
@@ -608,19 +608,6 @@ div.opcoes button.alien div.sala3 p.hr33{
   top:5%;
   left:120%;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 div.opcoes button.guardioes{
   position:absolute;
@@ -887,17 +874,17 @@ div.opcoes button.img7{
   position:relative;
 	background-image: url("buy.png");
 	width:5em;
-  height:24.3%;
-  left:57.6%;
-  top:1.6em;
+  height:24%;
+  left:70%;
+  top:-3.2em;
 }
 div.opcoes button.img77{
   position:relative;
 	background-image: url("img14.png");
 	width:5em;
-  height:24.3%;
-  left:57.2%;
-  top:1.6em;
+  height:24%;
+  left:69.5%;
+  top:-3.2em;
 }
 div.opcoes button.velozes div{
   position:absolute;
@@ -945,12 +932,11 @@ div.opcoes button.velozes div.sala7 p.hr7{
   left:115%
 }
 div.fim_menu {
-	position:absolute;
-	background-color:grey;
-	top:55.3em;
-	left:15%;
-	width:81.8%;
-	height:60px;
+	position: relative;
+	width: 70%;
+  top:42em;
+	margin-left: 15%;
+  background: #777777;
 }
 div.fim_menu p {
 	color:white;
@@ -962,7 +948,7 @@ div.fim_menu p.para2 {
 }
 div.informacoes {
 	position:absolute;
-	top:60em;
+	top:70em;
 	left:15%;
 	max-width:650px;
 	height:430px;
@@ -990,7 +976,7 @@ div.informacoes button{
 }
 div.informativos {
 	position:absolute;
-	top:60em;
+	top:70em;
 	margin-left:62.7%;
 	height:200px;
 }
