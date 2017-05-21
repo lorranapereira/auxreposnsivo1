@@ -117,11 +117,11 @@
     <button class="img66"></button>
     <button type="button" name="button" class = "velozes">
         <div> \/ Velozes e furiozos 8 </div><img src="3d.png" alt=""><div class = "filme7"> Ação </div><div class="leng7"> Dublado</div><div class="sala7">Sala 1: <p class = "hr7">13:50,16:35, 19:20,22:05</p></div>
-    </button>
+    </button><br/>
     <button class="img7"></button>
     <button class="img77"></button>
     </div>
-    <div class="fim_menu">
+    <div class="fim_menu" style="height:100%; padding:10px 0">
       <p class="para1">Salas Especiais:</p>
       <p class="para2">Cinépic: Sala 4</p>
     </div>
